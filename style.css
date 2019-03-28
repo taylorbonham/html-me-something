@@ -1,0 +1,43 @@
+body {
+    background-color: lightpink;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+    font-family: Georgia;
+    font-size: 40px;
+}
+
+h2 {
+    color: black;
+    text-align: center:
+    font-family: Georgia;
+    font-size: 25px;
+}
+
+h3 {
+    color: black;
+    text-align: center:
+    font-family: arial;
+    font-size: 15px;
+}
+
+p{
+    font-family: Georgia;
+    font-size: 18px; 
+    margin: 25px 50px 25px 50px;  
+}
+
+#rcorners2 {
+    border-radius: 25px;
+    border: 5px dotted black;
+    padding: 20px; 
+    width: 550px;
+    height: 300px; 
+  }
+
+p.round1 {
+    border: 2px solid black;
+    border-radius: 5px;
+  }
